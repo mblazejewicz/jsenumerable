@@ -1,0 +1,14 @@
+{
+  "name": "jsenumerable",
+  "version": "1.0.0",
+  "description": "c# linq like methods for js collections",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine-node spec"
+  },
+  "author": "mblazejewicz",
+  "license": "MIT",
+  "dependencies": {
+    "jasmine-node": "^1.16.2"
+  }
+}
